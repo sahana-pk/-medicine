@@ -1,0 +1,7 @@
+ml_training/
+pill_training/
+datasets/
+*.jpg
+*.png
+*.svg
+.env
